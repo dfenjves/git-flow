@@ -1,3 +1,5 @@
 “commit-remote in feature-branch-remote”
 
-This is additional text. Hi.
+This is additional text.
+
+Third line of text.
