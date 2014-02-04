@@ -1,4 +1,4 @@
-“commit-relocate in EXTRA feature-branch-remote”
+“commit-relocate in EXTRA feature-branch-remote” "Master change"
 
 This is additional text.
 
